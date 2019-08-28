@@ -1,7 +1,3 @@
-//Criar uma classe para representar uma conta corrente que possui um número, um saldo, um status qwe informa se ela é especial ou não, um limite.
-//Desenvolver métodos para realziar saque (verificando se o cliente pode realizar saques), depositar dinheiro, consultar saldo e verificar
-// se o cliente está usando cheque especial ou não. Desenvolver um programa para testar a classe.
-
 package aula_27_ContaCorrenteProfessor;
 
 public class testeContaCorrenteProfesor {
