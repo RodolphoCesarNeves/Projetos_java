@@ -164,9 +164,9 @@ public class Exer05 {
 			}else 
 			{
 				System.out.println("Opção inválida. Digite novamente");
-			}
-		}		
+			}		
 			
+		}				
 			
 		}
 		
