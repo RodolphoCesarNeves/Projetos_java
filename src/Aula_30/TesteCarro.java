@@ -6,6 +6,7 @@ public class TesteCarro {
 		
 		Carro van= new Carro("Fiat", "Ducato");
 		System.out.println(van.numPassageiros);
+		
 
 	}
 
