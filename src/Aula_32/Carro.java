@@ -5,6 +5,22 @@ public class Carro {
 	private String modelo;
 	private int numPassageiros;
 	private double capCombustivel;
+	public double getCapCombustivel() {
+		return capCombustivel;
+	}
+
+	public void setCapCombustivel(double capCombustivel) {
+		this.capCombustivel = capCombustivel;
+	}
+
+	public double getConsumoCombustivel() {
+		return consumoCombustivel;
+	}
+
+	public void setConsumoCombustivel(double consumoCombustivel) {
+		this.consumoCombustivel = consumoCombustivel;
+	}
+
 	private double consumoCombustivel;
 	
 	
